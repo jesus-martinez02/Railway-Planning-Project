@@ -1,0 +1,9 @@
+﻿Scenario;Distance;Travel Times;Number of Departures;Minutes Between Service;Demand File;Timetable File;Trains File
+CL-R16;209;125;16;150;base_demand_regional.csv;cl_r16_timetable.xlsx;base_trains_regional.csv
+CL-IR16;226;100;16;150;base_demand_interregional.csv;cl_ir16_timetable.xlsx;base_trains_interregional.csv
+EL-R16;202;85;16;120;el_16_demand_regional.csv;el_r16_timetable.xlsx;el_trains_regional.csv
+EL-IR16;202;60;16;90;el_16_demand_interregional.csv;el_ir16_timetable.xlsx;el_trains_interregional.csv
+EL-R22;202;85;22;120;el_22_demand_regional.csv;el_r22_timetable.xlsx;el_trains_regional.csv
+EL-IR22;202;60;22;90;el_22_demand_interregional.csv;el_ir22_timetable.xlsx;el_trains_interregional.csv
+EL-R30;202;85;30;120;el_30_demand_regional.csv;el_r30_timetable.xlsx;el_trains_regional.csv
+EL-IR30;202;60;30;90;el_30_demand_interregional.csv;el_ir30_timetable.xlsx;el_trains_interregional.csv
